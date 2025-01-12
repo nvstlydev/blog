@@ -4,7 +4,7 @@ seoTitle: "Benzinga Interviews NVSTly: The Future of Social Investing"
 seoDescription: "Join Benzinga as they sit down with NVSTly, the cutting-edge platform revolutionizing social trading and investing."
 datePublished: Wed Nov 27 2024 02:46:29 GMT+0000 (Coordinated Universal Time)
 cuid: cm3zab4wl000709mhbw979v4o
-slug: benzinga-interviews-nvstly-the-future-of-social-investing-1
+slug: benzinga-interviews-nvstly-the-future-of-social-investing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732675519939/58e823b3-66c9-4fbf-955f-9b7e66040719.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1732675576548/7fb21eab-bdd8-4d21-b0f0-69d2c4c857ba.png
 tags: social-media, crypto, forex, cryptocurrency, finance, fintech, trading, investing, stocks, futures, stockmarket, forex-trading
@@ -17,6 +17,6 @@ Join Benzinga as they sit down with NVSTly, the cutting-edge platform revolution
 
 NVSTly Web: [https://nvstly.com](https://nvstly.com/)  
 iOS: [https://nvstly.com/go/ios](https://nvstly.com/go/ios)  
-Google Play: [https://nvstly.com/go/android](https://nvstly.com/go/android) 
+Google Play: [https://nvstly.com/go/android](https://nvstly.com/go/android)
 
 %[https://www.youtube.com/watch?v=T31HkdKYkck]
